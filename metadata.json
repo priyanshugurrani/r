@@ -1,0 +1,5 @@
+{
+  "name": "Receipt & Tip Calculator",
+  "description": "A clean and modern web app interface showing a simple receipt and tip calculator. Users can add items with name, price, and quantity. At the bottom, a big bold total amount is displayed with a tip field.",
+  "requestFramePermissions": []
+}
